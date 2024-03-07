@@ -68,6 +68,6 @@ Except as contained in this notice, the names of Gnome, the Gnome Foundation, an
 	font-style: normal;
 	font-display: swap;
 	src: local('※'),
-		url('hack-Regular.woff') format('woff');
+		url('hack-regular.woff') format('woff');
 }
 
