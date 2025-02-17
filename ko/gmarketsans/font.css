@@ -1,0 +1,32 @@
+/*
+
+*/
+
+
+@font-face {
+  font-family: 'GmarketSans';
+  font-weight: 700;
+  font-display: swap;
+  src: local('※'),
+    url('GmarketSansBold.otf') format('otf');
+}
+
+
+
+@font-face {
+  font-family: 'GmarketSans';
+  font-weight: 500;
+  font-display: swap;
+  src: local('※'),
+    url('GmarketSansLight.otf') format('otf');
+}
+
+
+
+@font-face {
+  font-family: 'GmarketSans';
+  font-weight: 300;
+  font-display: swap;
+  src: local('※'),
+    url('GmarketSansMedium.otf') format('otf');
+}
